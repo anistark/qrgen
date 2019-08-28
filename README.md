@@ -2,3 +2,4 @@
 
 QR code Generator
 
+[Generate your QR code now](https://qrgen.dev/editor).
