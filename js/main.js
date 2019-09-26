@@ -57,6 +57,16 @@ function makeCode() {
         return;
     }
     qrcode.makeCode(elText);
+    downloadCode();
+}
+
+function downloadCode(){
+    let code = $('#qrcode').children('img').attr('src');
+    let link = document.getElementById('downloadButton');
+    link.innerHTML = 'Download as PNG';
+    link.download = 'qrcode.png';
+    link.href = code;
+
 }
 
 $('#message').keyup(function() {
