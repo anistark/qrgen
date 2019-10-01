@@ -57,8 +57,25 @@ function makeCode() {
         return;
     }
     qrcode.makeCode(elText);
+    
+}
+
+function downloadCodePNG(){
+    let code = $('#qrcode').children('img').attr('src');
+    let link = document.getElementById('downloadButton');
+    link.innerHTML = 'Download as PNG';
+    link.download = 'qrcode.png';
+    link.href = code;
+}
+
+function downloadCodePDF(){
+    let code = $('#qrcode').children('img').attr('src');
+    var doc = new jsPDF();
+    doc.addImage(code, "JPEG", 15, 40, 100, 100); //You can change the size values here
+    doc.save();
 }
 
 $('#message').keyup(function() {
     makeCode();
+    downloadCodePNG();
 });
