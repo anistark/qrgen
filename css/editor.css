@@ -131,11 +131,16 @@ input[type='range']::-webkit-slider-thumb {
     cursor: pointer;
 }
 
-.btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 1rem;
+a:hover{
+    cursor: pointer;
+}
+
+.btn{
+    transition: all 0.2s ease-in;
+}
+.btn:hover {
+    transform: scale(1.3);
+    background: linear-gradient(to right ,rgb(125, 250, 240), rgb(233, 96, 96))
 }
 
 #reset {
