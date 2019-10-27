@@ -1,4 +1,8 @@
 $(document).ready(function() {
+    if($('#message').val().trim() == ""){
+        $('#downloadPDF').hide();
+        $('#downloadButton').hide();
+    }
     // Test for placeholder support
     $.support.placeholder = (function() {
         var i = document.createElement('input');
@@ -76,6 +80,15 @@ function downloadCodePDF(){
 }
 
 $('#message').keyup(function() {
-    makeCode();
-    downloadCodePNG();
+    const messageValue = $(this).val();
+    if(messageValue.trim() != ""){
+        $('#downloadPDF').show();
+        $('#downloadButton').show();
+        makeCode();
+        downloadCodePNG();
+    }else{
+        $('#downloadPDF').hide();
+        $('#downloadButton').hide();
+        $('#qrcode').hide();
+    }
 });

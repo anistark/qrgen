@@ -25,6 +25,40 @@ body {
   font-size: 14px;
 }
 
+.download-btn{
+  position: relative;
+  outline: 0;
+  overflow:hidden;
+  background: none;
+  z-index: 1;
+  cursor: pointer;
+  transition: 0.1s;
+
+  text-decoration: none !important;
+  background: none;
+  color: rgb(30,121,255);
+}
+
+.download-btn:hover {
+  color: whitesmoke;
+}
+
+.download-btn:before {
+  content: "";
+  position: absolute;
+  background: rgb(30,121,255);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 100%;
+  z-index: -1;
+  -webkit-transition: top 0.09s ease-in;
+}
+
+.download-btn:hover:before {
+  top: 0;
+}
+
 /* line 9, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
