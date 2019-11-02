@@ -16,12 +16,11 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/style.css">
 
-
     <link rel="stylesheet" href="./css/editor.css">
 </head>
 
 <body>
-    <header class="main_menu home_menu bg-dark">
+    <header class="main_menu home_menu">
         <div class="container ">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -87,25 +86,37 @@
         </div> -->
     </header>
 
-    <section class="editor bg-dark section_padding">
+    <section class="editor section_padding">
         <div class="wrapper">
             <header>
-                <h1 class="text-light">Generate QR Code</h1>
+                <h1 class="text-dark">Generate QR Code</h1>
             </header>
             <section>
                 <div class="main">
+                    <h2 class="editor-h2">Generate and print QR code of your choice:</h2>
                     <div class="display-board">
                         <div id="qrcode"></div>
-                        <a class="btn btn-link download-btn" style="margin: 1rem .5rem" id="downloadButton">Download as PNG</a>
-                        <button onclick="downloadCodePDF()" style="margin: 1rem .5rem" class="btn btn-link download-btn" id="downloadPDF">Download as PDF</button>
+                        <div class="vertical-row">
+                            <a class="btn btn-link download-btn" id="downloadButton">Download as PNG</a>
+                            <button onclick="downloadCodePDF()" class="btn btn-link download-btn" id="downloadPDF">Download as PDF</button>
+                        </div>
                     </div>
                     <div>
 
                     </div>
                 </div>
                 <div class="filters">
+                    <div class="dropdown">
+                        <button class="dropbtn">What do you want to generate?</button>
+                        <div class="dropdown-content">
+                            <span id="drop-message" class="drop-btn">Text</span>
+                            <span id="drop-url" class="drop-btn">URL</span>
+                            <!-- <span id="drop-coordinate" class="drop-btn">Location Coordinates</span> -->
+                        </div>
+                    </div>
                     <div class="search__box">
-                        <textarea rows="15" cols="50" name="message" onkeypress="update(e)" class="form-control" id="message" placeholder="Message..." tabindex="4" required></textarea>
+                        <textarea name="message" class="form-control filter-box" id="message" placeholder="Message..." tabindex="4" required></textarea>
+                        <input type="text" value="" id="url" class="form-control filter-box" tabindex="4" placeholder="http://qrgen.dev/">
                         <!-- <button class="go">Go</button> -->
                     </div>
                 </div>

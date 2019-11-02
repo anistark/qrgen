@@ -1,8 +1,8 @@
 $(document).ready(function() {
-    if($('#message').val().trim() == ""){
+    // if($('#message').val().trim() == ""){
         $('#downloadPDF').hide();
         $('#downloadButton').hide();
-    }
+    // }
     // Test for placeholder support
     $.support.placeholder = (function() {
         var i = document.createElement('input');
@@ -53,15 +53,15 @@ $(document).ready(function() {
 
 var qrcode = new QRCode("qrcode");
 
-function makeCode() {
-    var elText = $('#message').val();
+function makeCode(elText) {
+    // var elText = $('#message').val();
     if (!elText) {
         // console.log("Input a text");
         elText.focus();
         return;
     }
     qrcode.makeCode(elText);
-    
+
 }
 
 function downloadCodePNG(){
@@ -79,12 +79,12 @@ function downloadCodePDF(){
     doc.save();
 }
 
-$('#message').keyup(function() {
+$('.filter-box').keyup(function() {
     const messageValue = $(this).val();
     if(messageValue.trim() != ""){
         $('#downloadPDF').show();
         $('#downloadButton').show();
-        makeCode();
+        makeCode(messageValue);
         downloadCodePNG();
     }else{
         $('#downloadPDF').hide();
