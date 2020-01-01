@@ -2276,7 +2276,7 @@ ul {
   width: 100%;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
   top: 0;
-  background-color: #0ab6ff;
+  background-color: #ffffff;
 }
 
 /* line 149, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
@@ -5921,4 +5921,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .home_page_pricing {
     padding-top: 100px;
+}
+
+.menu-logo {
+    max-height: 50px;
+    margin: 10px auto;
 }
