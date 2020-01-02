@@ -1,0 +1,29 @@
+{
+    "name": "qrgen",
+    "version": "0.0.1",
+    "private": true,
+    "description": "QR Code Generator",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anistark/qrgen.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/anistark/qrgen/issues"
+    },
+    "homepage": "https://github.com/anistark/qrgen#readme",
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "ejs": "~2.6.1",
+        "ejs-locals": "^1.0.2",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "morgan": "~1.9.1"
+    }
+}

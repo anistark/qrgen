@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="css/editor.css">
+
+<section class="editor section_padding">
+    <div class="wrapper">
+        <header>
+            <h1 class="text-dark">Generate QR Code</h1>
+        </header>
+        <section>
+            <div class="main">
+                <h2 class="editor-h2">Generate and print QR code of your choice:</h2>
+                <div class="display-board">
+                    <div id="qrcode"></div>
+                    <div class="vertical-row">
+                        <a class="btn btn-link download-btn" id="downloadButton">Download as PNG</a>
+                        <button onclick="downloadCodePDF()" class="btn btn-link download-btn" id="downloadPDF">Download as PDF</button>
+                    </div>
+                </div>
+                <div>
+
+                </div>
+            </div>
+            <div class="filters">
+                <div class="dropdown">
+                    <button class="dropbtn">What do you want to generate?</button>
+                    <div class="dropdown-content">
+                        <span id="drop-message" class="drop-btn">Text</span>
+                        <span id="drop-url" class="drop-btn">URL</span>
+                        <!-- <span id="drop-coordinate" class="drop-btn">Location Coordinates</span> -->
+                    </div>
+                </div>
+                <div class="search__box">
+                    <textarea name="message" class="form-control filter-box" id="message" placeholder="Message..." tabindex="4" required></textarea>
+                    <input type="text" value="" id="url" class="form-control filter-box" tabindex="4" placeholder="http://qrgen.dev/">
+                    <!-- <button class="go">Go</button> -->
+                </div>
+            </div>
+        </section>
+    </div>
+</section>
+
+<script type="text/javascript" src="js/editor.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
