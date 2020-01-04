@@ -10,4 +10,8 @@ router.get('/editor', function(req, res, next) {
     res.render('pages/editor', {title: 'QR Code Editor'});
 });
 
+router.get('/random', function(req, res, next) {
+    res.render('pages/random', {title: 'Random String Generator'});
+});
+
 module.exports = router;
