@@ -33,23 +33,25 @@
                         <textarea name="message" rows="5"></textarea>
                     </p> -->
 
-                    <!-- <p class='full'>
-                        <button id="btn-random-select">Random Select</button>
-                    </p> -->
+                    <p class='full'>
+                        <button type="button" id="btn-generate">Generate</button>
+                    </p>
                 </form>
             </div>
             <div class='form-info'>
                 <h3>Result</h3>
 
-                <textarea name="result-text" id="result-text" rows="15"></textarea>
+                <textarea name="result-text" id="result-text" rows="15" disabled></textarea>
 
-                <!-- <p class='full'>
-                    <button>Export to CSV</button>
-                </p> -->
+                <div id="export-container" class="hide">
+                    <p class='full'>
+                        <button type="button" id="btn-download-csv">Export as CSV file</button>
+                    </p>
 
-                <!-- <p class='full'>
-                    <button>Export to Excel</button>
-                </p> -->
+                    <!-- <p class='full'>
+                        <button type="button">Export as Excel file</button>
+                    </p> -->
+                </div>
 
             </div>
         </div>
