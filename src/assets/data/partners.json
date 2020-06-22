@@ -1,0 +1,94 @@
+{
+    "Organized By":[
+        {
+            "name":"GDG Jalandhar",
+            "link":"https://gdgjalandhar.com",
+            "img":"gdgjalandhar.webp"
+        },
+        {
+            "name":"GDG Chandigarh",
+            "link":"https://www.meetup.com/GDG-chandigarh/",
+            "img":"gdgchd.webp"
+        }
+    ],
+
+    "Official Partner":[
+        {
+            "name":"Google",
+            "link":"https://google.com/groups",
+            "img":"google.svg"
+        },
+        {
+            "name":"GDG[x]",
+            "link":"https://github.com/gdg-x",
+            "img":"gdg-x.svg"
+        }
+    ],
+    "Global Initiative":[
+        {
+            "name":"Google Developers",
+            "link":"https://developers.google.com/groups",
+            "img":"googledevs.webp"
+        },
+        {
+            "name":"GDG",
+            "link":"https://developers.google.com/groups",
+            "img":"gdglogo.webp"
+        },
+        {
+            "name":"WomenTechmakers",
+            "link":"https://www.womentechmakers.com/",
+            "img":"wtm.svg"
+        }
+    ],
+    "Community Partners":[
+        {
+            "name":"JetBrains",
+            "link":"https://www.jetbrains.com",
+            "img":"jetbrains.webp"
+        },
+        {
+            "name":"CodinGurukul",
+            "link":"https://codingurukul.com/",
+            "img":"cg.webp"
+        },
+        {
+            "name":"Mozilla",
+            "link":"https://foundation.mozilla.org/en/",
+            "img":"mozilla.webp"
+        }
+    ],
+    "Giga Sponsors":[
+        {
+            "name":"Coding Blocks",
+            "link":"https://cb.lk/devfest/punjab",
+            "img":"cb.webp"
+        },
+        {
+            "name":"Github",
+            "link":"https://github.com/",
+            "img":"github.webp"
+        }
+    ],
+    "Mega Sponsors":[
+        {
+            "name":"Swami Devi Dyal Group of Professional Institutes",
+            "link":"http://sddgpi.com",
+            "img":"sdd.webp"
+        }
+    ],
+    "Silver Sponsors":[
+
+    ],
+    "Bronze Sponsors":[
+       
+    ],
+    "Web App Creator":[
+        {
+            "name":"GDG Jalandhar",
+            "link":"https://developers.google.com/groups",
+            "img":"gdgjalandhar.webp"
+        }
+    ]    
+
+}

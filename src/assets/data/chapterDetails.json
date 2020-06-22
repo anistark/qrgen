@@ -1,0 +1,34 @@
+{
+    "ChapterName":"QRgen",
+    "ChapterShortDescription":"",
+    "ChapterLongDec":"",
+    "ChapterMeetupLink":"#",
+    "ChapterEmail":"hello@qrgen.dev",
+    "website":"https://qrgen.dev",
+    "GDGProgramWebsite":"#",
+    "ChapterHashTags":[""],
+    "socialLinks":[
+        {
+            "name" : "Facebook",
+            "link" : "https://www.facebook.com/acycliclabs",
+            "icon" : "fab fa-facebook"
+        },
+        {
+            "name" : "Github",
+            "link" : "https://github.com/anistark",
+            "icon" : "fab fa-github"
+        },
+        {
+            "name" : "Twitter",
+            "link" : "https://twitter.com/kranirudha",
+            "icon" : "fab fa-twitter"
+        },
+        {
+            "name" : "Instagram",
+            "link" : "http://instagram.com/acycliclabs",
+            "icon" : "fab fa-instagram"
+        }
+    ],
+    "wtmWebsite":"#",
+    "aboutGDGProgram":"something."
+}

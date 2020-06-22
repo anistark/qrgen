@@ -1,0 +1,376 @@
+[
+    {
+        "id":"101",
+        "name":"Nikita Gandhi",
+        "designation":"Program Co-Ordinator",
+        "company":{
+            "name":"Google",
+            "url":""
+        },
+        "bio": "Nikita Gandhi is a Program coordinate Google's EngEdu's Machine Learning Program in India. She specially look forward to train the enthusiastic university students with concepts in ML. Extremely passionate about spreading technical knowledge with masses online and offline, her source of bread and butter and hobbies run in parallel. Satisfaction of office work helps her to do a little extra for the society.",
+        "city":"Bangalore",
+        "country":"India",
+        "image":"nikita.webp",
+        "sessionId": [201],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/Nikkitagandhi",
+            "linkedin":"https://www.linkedin.com/in/nikita-gandhi01/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"103",
+        "name":"Sabyasachi Mukhopadhyay",
+        "designation":"GDE for ML & Chief Research Officer",
+        "company":{
+            "name":"Twelit Med Pvt. Ltd.",
+            "url":""
+        },
+        "bio": "Apart from being ‘Kolkata Lead of Facebook Developer Circle’, Sabyasachi has been recognized as 'Intel Software Innovator', 'Google Developer Expert (GDE) in Machine Learning' by Google in 2019. Sabyasachi is also the Co-Founder & Chief Research Officer (CRO) of Twelit MedTech Pvt.Ltd. His healthcare venture Twelit and automation venture Roovx were ranked as ‘Top 400 Startup’ by Govt. of India and IIM Kolkata at Smart Fifty Programme. Recently he has been honored with ‘Distinguished Lifetime Membership Award’ by ‘Society For Data Science’.",
+        "city":"Kolkata",
+        "country":"India",
+        "image":"sab.webp",
+        "sessionId": [203],
+        "social":{
+            "facebook":"https://www.facebook.com/SM2017Official/",
+            "twitter":"https://twitter.com/sabyasachi_uni",
+            "linkedin":"https://www.linkedin.com/in/sabyasachi-mukhopadhyay-303a1027/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"104",
+        "name":"Paresh Mayani",
+        "designation":"Organizer, GDG Ahm & Practice Head",
+        "company":{
+            "name":"Simform",
+            "url":""
+        },
+        "bio": "Paresh is an experienced developer turned engineering and product/project manager, exploring the horizon of software industry since last 10 years. He is holding 100,000 reputation points over Stackoverflow, have written 150+ blogs, have published 50+ applications and known for community contribution, write blogs and deliver talks across the India and outside India too. Founded and managing GDG Ahmedabad since 2011",
+        "city":"Ahmedabad",
+        "country":"India",
+        "image":"paresh.webp",
+        "sessionId": [204],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/pareshmayani",
+            "linkedin":"https://www.linkedin.com/in/pareshmayani/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"105",
+        "name":"Prajyot Mainkar",
+        "designation":"Organizer, GDG Goa & Founder",
+        "company":{
+            "name":"Androcid",
+            "url":""
+        },
+        "bio": "Prajyot Mainkar is the director of Androcid - A Mobile engineering development company based out of Goa and one of the winner's of Goa State CM Startup Award. He has been associated with Hon. PM Shri. Narendra Modi's PMO initiative of MYGOV. In mentoring more than 50 startups under the PMO initiative. Recipient of the Young Entrepreneur of the year by Business Goa and one of the 14 Intel innovators in the country, Prajyot has delivered more than 350 talks across the globe of which the prominent have been Droidcon Greece, Android Developer Days in Turkey, Google developer summit, Sri Lanka. Yourstory, one of India's leading startup brand recognized him as the Android man of Goa and was also featured as top techies in India in 2015. He is the technical advisor to India's one of the leading Digital Incubator For Students - The Startup Village and also several other incubators. Recently, became the first Goan author to publish a book on Mobile Technology called - Expert Android Programming, which is circulated in UK, India, Sri Lanka, Nepal, and Bangladesh. Post that, published another book on Flutter. He is also on the board of EDC Ignite as an advisor and industry advisor to Goa Stage IT policy.GEMS(Goa entrepreneur mentoring service) recently awarded him The trailblazer excellence award for contribution of IT in Goa.",
+        "city":"Goa",
+        "country":"India",
+        "image":"parjyot.webp",
+        "sessionId": [205],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/prajyotm",
+            "linkedin":"https://www.linkedin.com/in/prajyotm/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"106",
+        "name":"Jaldeep Asodariya",
+        "designation":"Event Organizer, GDG Ahmedabad & Sr. Android Developer",
+        "company":{
+            "name":"MindInventory",
+            "url":""
+        },
+        "bio":"Jaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant Applications as well as he has proficient knowledge in NodeJS. In the spare time, Jaldeep likes to watch Google Technology videos and enlarge photography skills.",
+        "city":"Ahmedabad",
+        "country":"India",
+        "image":"jaldeep.webp",
+        "sessionId": [206],
+        "social":{
+            "facebook":"https://www.facebook.com/jdjaldeep",
+            "twitter":"https://twitter.com/JaldeepAsodariy",
+            "linkedin":"https://www.linkedin.com/in/jaldeepasodariya/",
+            "github":"https://github.com/JaldeepAsodariya",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"107",
+        "name":"Rushabh Vasa",
+        "designation":"GDE for Cloud, Co-Lead, GBG Mumbai & Chief Executive Officer",
+        "company":{
+            "name":"Instinct Media",
+            "url":""
+        },
+        "bio": "Rushabh Vasa is a technology entrepreneur. A computer engineer by qualification, he always challenges himself and his team to build technology enabled solutions that can solve problems at scale. in 2009 he founded Instinct Media, a company that pioneered in digital and web technology solutions when India had less than 50 million internet users. Today, it is ranked among top 50 Google certified digital agency in India. Rushabh's recent venture is Agrahyah Technologies, India's First Voice Agency & preferred  partner for Amazon Alexa & Google Assistant. Beside being a busy entrepreneur, Rushabh always finds time to give back. As the maxim goes, 'to teach a man fishing', Rushabh believes giving back knowledge is more important than merely distributing wealth.",
+        "city":"Mumbai",
+        "country":"India",
+        "image":"rush.webp",
+        "sessionId": [207],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/rushabh69",
+            "linkedin":"https://www.linkedin.com/in/rushabhvasa/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"108",
+        "name":"Chirag Nayyar",
+        "designation":"Google Certified Cloud Specialist & Sales Lead",
+        "company":{
+            "name":"Cloud Kinetics",
+            "url":""
+        },
+        "bio":"An early adopter of Public Cloud and Certified Architect in all major Cloud platform with almost 3 years of experience working with different Industry verticle for enabling the cloud journey. Currently on the vision to spread Cloud awareness in our Country so everyone will be Cloud future ready. He has holded 7 GCP Certifications till date. As, he wanted to be an Astronaut, his determination led him to go through the Apollo 11 source code since weeks.",
+        "city":"Kolkata",
+        "country":"India",
+        "image":"chirag.webp",
+        "sessionId": [208],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/chiragnayyar",
+            "linkedin":"https://www.linkedin.com/in/chiragnayyar/",
+            "github":"https://github.com/chiragnayyar",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"109",
+        "name":"Ashok Vishwakarma",
+        "designation":"GDE for Web + Angular & AVP Engineer",
+        "company":{
+            "name":"Naukri.com",
+            "url":""
+        },
+        "bio":"Ashok is a Tech Enthusiast and an amazing speaker. He is not only an Engineer, but also an Entreprenuer. His love for Angular and Web related technologies are the key to be a Google Developer Expert. Though he has very busy schedule, he manages the time to travel across the length and breadth, and write the experiences.",
+        "city":"New Delhi",
+        "country":"India",
+        "image":"ashok.webp",
+        "sessionId": [209],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/_avishwakarma",
+            "linkedin":"https://www.linkedin.com/in/ashokvishwakarmaa/",
+            "github":"https://github.com/ashokvishwakarma",
+            "website":"https://ashok.pro",
+            "medium": "https://medium.com/@avishwakarma"
+        }
+    },
+    {
+        "id":"111",
+        "name":"Kamal Vaid",
+        "designation":"GDE for AoG & Tech Lead",
+        "company":{
+            "name":"Infosys",
+            "url":""
+        },
+        "bio":"Kamal loves to work and explore Android. Working as Technology Lead with 6+ years of experience, he believes in the theory of sharing whatever you have learnt from everywhere. He is a blogger and write whenever he feel he has learnt something new and that needs to be shared. He is fond of Cars and Bikes, and spend his free time in riding",
+        "city":"Chandigarh",
+        "country":"India",
+        "image":"kamal.webp",
+        "sessionId": [211],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/cammykamal",
+            "linkedin":"https://www.linkedin.com/in/kamal-vaid/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"112",
+        "name":"Vrijraj Singh",
+        "designation":"GDE for Web & Frontend Developer",
+        "company":{
+            "name":"QArt Fashion",
+            "url":""
+        },
+        "bio":"Vrijraj is a front-end developer by profession and an outstanding person in daily life. Thinking out of the box is what he believes in doing. He states that learning is a process that never stops, even if you are old enough, there will be things that you can still learn. He is always eager to learn new technologies and develop new things based on it.",
+        "city":"Gurugram",
+        "country":"India",
+        "image":"vrij.webp",
+        "sessionId": [212],
+        "social":{
+            "facebook":"https://www.facebook.com/vrijrajsingh",
+            "twitter":"https://twitter.com/VrijrajSingh",
+            "linkedin":"https://www.linkedin.com/in/vrijraj/",
+            "github":"https://github.com/vrijraj",
+            "website":"https://vrijraj.xyz/",
+            "medium": "https://medium.com/@vrijraj"
+        }
+    },
+    {
+        "id":"113",
+        "name":"Varsha Jaiswal",
+        "designation":"#IamRemarkable Facilitator & GDG-WTM Lead & Software Engineer",
+        "company":{
+            "name":"Edfora Infotech",
+            "url":""
+        },
+        "bio":"Varsha is a girl with a bag full of hardwork and determination to fulfill her responsibilities. Working as a Software Engineer, she has a keen interest in working on new technologies. Being a facilitator of #IamRemarkable Workshop, she always gives her best to motivate her surrounding. Despite busy schedules, she never misses any chance to travel and eat.",
+        "city":"New Delhi",
+        "country":"India",
+        "image":"varsha.webp",
+        "sessionId": [213, 216],
+        "social":{
+            "facebook":"https://www.facebook.com/varsha2716",
+            "twitter":"https://twitter.com/varsha2716",
+            "linkedin":"https://www.linkedin.com/in/varsha2716/",
+            "github":"https://github.com/Varsha-Jaiswal",
+            "website":"http://varsha-jaiswal.firebaseapp.com/",
+            "medium": "https://medium.com/@varsha2716"
+        }
+    },
+    {
+        "id":"114",
+        "name":"Sonakshi Shukla",
+        "designation":"WTM Ambassador",
+        "company":{
+            "name":"Women Techmakers",
+            "url":""
+        },
+        "bio": "As a tech enthusiast, new technologies has always fascinated me. Belonging to a non technical background, it was hard for me to get any idea that how I should start my technical journey. Then after joining GDG I learnt about new technologies and now I have good experience with Firebase, web development and also on Cloud. I have also made application on Google Assistance. I have managed many events with my team like DevFest, IWD, Tensorflow DevSummit and many more. Managing these events developed my interpersonal skills and made me help my community more and more. I like to take sessions on different technologies so that I can make my community well aware about the same. Whether its about using cloud APIs of creating a Firebase login form on web, I love to deliver sessions on different technologies. In my free time, i like to explore new technologies and sometimes exploring new places.",
+        "city":"New Delhi",
+        "country":"India",
+        "image":"sonakshi.webp",
+        "sessionId": [214,215],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/Sonakshishukla1",
+            "linkedin":"https://www.linkedin.com/in/sonakshi15/",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"115",
+        "name":"Tushar Srivastava",
+        "designation":"Co-Organizer, GDG Chandigarh & Lead Engineer",
+        "company":{
+            "name":"Samsung R&D",
+            "url":""
+        },
+        "bio":"Tushar is an Android developer by profession having 5+ years of experience in corporate field. Learning new technology and implementing them is his goal. Along with his daily life, he also try to give back to the society by sharing information to peers, writing blogs. He is an YouTuber in his spare time.",
+        "city":"Gurugram",
+        "country":"India",
+        "image":"tushar.webp",
+        "sessionId": [215],
+        "social":{
+            "facebook":"https://www.facebook.com/tshrsri",
+            "twitter":"https://twitter.com/tshrsri",
+            "linkedin":"https://www.linkedin.com/in/tushar-srivastava-305a05148/",
+            "github":"https://github.com/TusharSri",
+            "website":"",
+            "medium": "https://medium.com/@tusharsri"
+        }
+    },
+    {
+        "id":"117",
+        "name":"Sarthak Jain",
+        "designation":"Tester and Company Growth Strategist",
+        "company":{
+            "name":"Coding Blocks",
+            "url":""
+        },
+        "bio": "Sarthak is an Active OnePlus Community Expert, a recognised XDA Developer and Contributor. He was an Intern at AIR. He is a Keen Tester for Mobile ROMs of OnePlus and ZUK Z1. He has also been an Associate Mentor at LPU,Jalandhar. He was also a speaker at Google I/O Extended 2019",
+        "city":"New Delhi",
+        "country":"India",
+        "image":"sarthak.webp",
+        "sessionId": [],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/sarcastic_sark",
+            "linkedin":"https://www.linkedin.com/in/sarthak-jain24apr98/",
+            "github":"https://github.com/sarthak-1998",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id": "118",
+        "name": "Suhail Singh Bains",
+        "designation": "",
+        "company": {
+            "name":"Mozilla Reps",
+            "url": ""
+        },
+        "bio": "Suhail is an active contributor in mozilla in projects such as addons, pontoon and firefox reality. He gave a talk on Aframe io and Addons earlier this year. He has helped and encouraged his local community to build unique addons through his experience.",
+        "city": "New Delhi",
+        "country":"India",
+        "image":"suhail.jpeg",
+        "sessionId":[],
+        "social":{
+            "facebook": "",
+            "twitter": "https://twitter.com/coder_jatt",
+            "github": "",
+            "linkedin": "https://www.linkedin.com/in/suhailsinghbains/",
+            "medium": "",
+            "website": ""
+        }
+    },
+    {
+        "id":"119",
+        "name":"Pawan Kumar",
+        "designation":"GDE for Flutter & Firebase",
+        "company":{
+            "name":"QArt Fashion",
+            "url":""
+        },
+        "bio": "Pawan is passionate Flutter and Android Developer. Interests range from technology to design. Also interested in music, entrepreneurship, and travel. Loves open-sourcing cool projects on Github and helping the Android and Flutter community regularly on Facebook, Slack and YouTube.",
+        "city":"Gurugram",
+        "country":"India",
+        "image":"pawan.webp",
+        "sessionId": [],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/imthepk",
+            "linkedin":"https://www.linkedin.com/in/imthepk/",
+            "github":"https://github.com/imthepk",
+            "website":"",
+            "medium": ""
+        }
+    },
+    {
+        "id":"120",
+        "name":"Birender Singh",
+        "designation":"Senior Technology Architect",
+        "company":{
+            "name":"Infosys",
+            "url":""
+        },
+        "bio": "Birender has 15+ years of Software Development Life Cycle experience in IT Services Industry. Being associated with Mobile Solutions Practice and Android being primary development platform, he gained diverse experience while working for leading Global clients.",
+        "city":"Chandigarh",
+        "country":"India",
+        "image":"bira.jpg",
+        "sessionId": [],
+        "social":{
+            "facebook":"",
+            "twitter":"https://twitter.com/Birender_Singhz",
+            "linkedin":"https://www.linkedin.com/in/birenders",
+            "github":"",
+            "website":"",
+            "medium": ""
+        }
+    }
+]
